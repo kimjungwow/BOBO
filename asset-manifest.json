@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BOBO/static/css/main.1da545ef.chunk.css",
-    "main.js": "/BOBO/static/js/main.261654a8.chunk.js",
-    "main.js.map": "/BOBO/static/js/main.261654a8.chunk.js.map",
+    "main.css": "/BOBO/static/css/main.8c2aa59b.chunk.css",
+    "main.js": "/BOBO/static/js/main.e4a4a65e.chunk.js",
+    "main.js.map": "/BOBO/static/js/main.e4a4a65e.chunk.js.map",
     "runtime~main.js": "/BOBO/static/js/runtime~main.8e648452.js",
     "runtime~main.js.map": "/BOBO/static/js/runtime~main.8e648452.js.map",
     "static/css/2.09d751c7.chunk.css": "/BOBO/static/css/2.09d751c7.chunk.css",
-    "static/js/2.c63c458c.chunk.js": "/BOBO/static/js/2.c63c458c.chunk.js",
-    "static/js/2.c63c458c.chunk.js.map": "/BOBO/static/js/2.c63c458c.chunk.js.map",
+    "static/js/2.7bf243f0.chunk.js": "/BOBO/static/js/2.7bf243f0.chunk.js",
+    "static/js/2.7bf243f0.chunk.js.map": "/BOBO/static/js/2.7bf243f0.chunk.js.map",
     "index.html": "/BOBO/index.html",
-    "precache-manifest.797bb28b97b9a03ab48e3a2d57d7fe64.js": "/BOBO/precache-manifest.797bb28b97b9a03ab48e3a2d57d7fe64.js",
+    "precache-manifest.1a19cf3f325762e8bf261d1216c757b5.js": "/BOBO/precache-manifest.1a19cf3f325762e8bf261d1216c757b5.js",
     "service-worker.js": "/BOBO/service-worker.js",
     "static/css/2.09d751c7.chunk.css.map": "/BOBO/static/css/2.09d751c7.chunk.css.map",
-    "static/css/main.1da545ef.chunk.css.map": "/BOBO/static/css/main.1da545ef.chunk.css.map",
+    "static/css/main.8c2aa59b.chunk.css.map": "/BOBO/static/css/main.8c2aa59b.chunk.css.map",
     "static/media/basic.png": "/BOBO/static/media/basic.38eea7b4.png"
   }
 }
