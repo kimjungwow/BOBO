@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d78f37dc52631d8ffa49061eeac1b8fe",
+    "revision": "6feeb62a33f1592051592580d13ed30c",
     "url": "/BOBO/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BOBO/static/css/2.09d751c7.chunk.css"
   },
   {
-    "revision": "c8d38141fdc7e562dde7",
+    "revision": "ce03ad6ed3478e604b38",
     "url": "/BOBO/static/css/main.8f0a6565.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BOBO/static/js/2.87be5f08.chunk.js"
   },
   {
-    "revision": "c8d38141fdc7e562dde7",
-    "url": "/BOBO/static/js/main.b88d7149.chunk.js"
+    "revision": "ce03ad6ed3478e604b38",
+    "url": "/BOBO/static/js/main.93011322.chunk.js"
   },
   {
     "revision": "d5885e5e58f947cf402e",
