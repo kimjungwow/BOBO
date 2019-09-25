@@ -9,7 +9,7 @@
 ## 1. Introduction
 - This application is developed for the sake of academy instructors, especially those who teach young students. We pointed out that most of them need (1) customized communication platform among instructors and parents and (2) efficient student management program.
 
-### 2. Description
+## 2. Description
 - There are four tabs: (1) Student list, (2) Adding class record, (3) Notice boards, (4) Settings
 - This program keeps two types of data from each student: class record and instructor's note.
 - Class record is used to keep track of student's activity.
@@ -25,12 +25,12 @@
 #### 2.3 Notice Boards
 - Notice boards for instructors and parents.
 
-## 2. Libraries and frameworks
+## 3. Libraries and frameworks
 - React (-dom, -router, js-popup)
 - Materialize
 - Firebase
 
-## 3. Appendix: Source Description
+## 4. Appendix: Source Description
 #### src/App.js
 Connect different pages
 
