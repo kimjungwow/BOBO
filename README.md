@@ -1,6 +1,5 @@
 # Project BOBO
 
-- This project was done in 2019 Spring-CS374(Human-Computer Interaction) course at KAIST university with [@h20che](https://github.com/h2oche), [@tommyyun96](https://github.com/tommyyun96) and [@ParkYunha](https://github.com/ParkYunha).  
 - Please visit with smartphone! (***optimized for smartphone rendering***)
 - URL: https://kimjungwow.github.io/BOBO/
 - Git Repo: https://github.com/kimjungwow/BOBO
